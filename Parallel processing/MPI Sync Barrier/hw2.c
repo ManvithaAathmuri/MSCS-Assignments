@@ -1,11 +1,3 @@
-/* Group-29:
-1.	Manvitha Aathmuri – R11847781
-2.	Raviteja Sirisanagandla - R11851152
-3.	Sai Tejaswini Chirumamilla - R11840694
-4.	Preetham Alwala - R11846544
-5.	Girish Gandham - R11870388
-6.	Ganesh Reddy Mannem - R11849144
-*/
 #include <stdio.h>
 #include <mpi.h>
 
